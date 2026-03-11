@@ -17,7 +17,8 @@ Github - documentação e apresentação do projeto como portifólio.
 - Produtos mais vendidos -> identificação dos itens mais populares.
 - Vendas por estado -> comparação regional do volume de vendas.
 
-# Visualização -> mini-dashboard com gráficos estilizados para comunicar os resultados.
+# Visualização 
+- Mini-dashboard com gráficos estilizados para comunicar os resultados.
 
 # Resultados esperados
 - Identificação de padrão de consumo.
